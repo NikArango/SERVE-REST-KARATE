@@ -2,16 +2,6 @@
 
 Este proyecto utiliza el framework Karate para pruebas de API. El proyecto está estructurado en Java, JavaScript y Maven.
 
-> [!IMPORTANT]
-> Repositorio del Framework de Pruebas Automatizadas BE - Karate :link: [link](https://github.com/pacifico-seguros-org/frameworkpruebasautomatizadas-be)
-
-
-> [!NOTE]
-> :movie_camera: Capacitación Framework Automatización BE - Karate :link: [link](https://pacificocia.sharepoint.com/:v:/r/sites/teamqa/Shared%20Documents/General/Gesti%C3%B3n%20de%20Conocimientos/Automatizaci%C3%B3n/Automatizaci%C3%B3n%20BE/Framework%20Karate/Introducci%C3%B3n%20Framework%20BE%20(Karate).mp4?csf=1&web=1&e=W9qIc4)
-
-> [!TIP]
-> Usa Copilot [aqui](https://github.com/Wiki-Pacifico/DevSecOps-PGA/wiki/GENAI-%E2%80%90-Copilot-QA-Backend) el manual.
-
 ## Estructura del Proyecto
 
 La estructura del proyecto es la siguiente:
