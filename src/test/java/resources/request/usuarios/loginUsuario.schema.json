@@ -1,0 +1,8 @@
+{
+  "post": {
+    "200":{
+      "message": "#string",
+      "authorization": "#string"
+    }
+  }
+}
